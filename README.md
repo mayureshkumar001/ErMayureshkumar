@@ -144,5 +144,3 @@
 </p>
 
 ---
-
-⭐ **"Building AI that thinks, feels, and collaborates intelligently."**  
