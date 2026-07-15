@@ -3,14 +3,39 @@
 
 ---
 
-### 🚀 About Me  
-- 💼 I am a professional with **8+ years of experience** in **Data Analytics**, **Data Engineering**, and delivering impactful **IoT solutions**.  
-- 🐍 With **2+ years of hands-on experience in Python**, I’ve refined my expertise in **AI/ML**, **Computer Vision**, **Generative AI**, **Agentic AI**, **Speech AI (STT/TTS)**, and **Natural Language Processing (NLP)**.  
-- 💡 Passionate about building **Agentic AI Systems**, **Large Language Models (LLMs)**, and **Multimodal AI Frameworks** that bridge intelligence and automation.  
-- 🔭 Engaged in professional development through the creation of **end-to-end AI projects**, focusing on real-world problem-solving and system deployment.  
-- 🧩 Deeply interested in **Generative AI**, **Computer Vision**, **Speech & Emotion AI**, and **Agentic AI**.  
-- ⚙️ Skilled at integrating **AI + IoT + Automation** to build intelligent, production-ready systems.  
-- ⚡ Fun fact: I love transforming complex AI concepts into *real-world, deployable systems* that make a measurable impact.  
+# 🚀 About Me
+
+AI/ML, Generative AI & Agentic AI Engineer with **8+ years of experience** in **Industrial IoT, Data Engineering, Advanced Analytics, and Enterprise AI**, 
+
+I’ve refined my expertise through **self-driven, hands-on experience** building production-grade **LLMs, RAG systems, multi-agent systems, and computer vision applications**.
+
+I specialize in designing and deploying **end-to-end AI systems**—from **training GPT-style LLMs and Vision Transformers (ViTs) from scratch** to **fine-tuning Transformer models**, architecting **RAG pipelines**, and developing **Agentic AI** and **multi-agent systems** using **LangGraph, LangChain, FastAPI, Redis**, and cloud-native technologies.
+
+With a strong foundation in **PLC, SCADA, OPC, SQL, and Data Engineering**, I bridge **Industrial Automation** and **Enterprise AI** to deliver intelligent, scalable, and production-ready solutions.
+
+### 💡 Core Expertise
+
+- 🤖 **Training LLMs from Scratch • Generative AI • Agentic AI • Multi-Agent Systems**
+- 📚 **RAG • LangGraph • LangChain • MCP**
+- 🧠 **Transformer Architecture • GPT • BERT • Vision Transformers (ViT) • Fine-tuning • LoRA • PEFT**
+- 👁️ **Computer Vision • Multimodal AI • OCR • Document Intelligence • Image Understanding**
+- 🎙️ **Speech AI • ASR (STT) • TTS • NLP**
+- 🗄️ **Vector Databases • Graph Databases**
+- ☁️ **Python • FastAPI • AWS • Redis**
+- 📊 **SQL • Data Engineering • Industrial IoT • PLC • SCADA • OPC**
+- 🚀 **AI Solution Architecture • Enterprise AI Integration**
+
+### 🔭 Current Focus
+
+- 🤖 Building **autonomous AI agents** capable of planning, reasoning, and tool orchestration.
+- 📚 Developing **enterprise-grade RAG systems** with advanced retrieval, memory, and knowledge graphs.
+- 🌐 Exploring **multimodal foundation models**, **AI copilots**, and **agentic workflows**.
+- ⚙️ Integrating **AI + Industrial IoT + Automation** to accelerate intelligent manufacturing.
+
+### ⚡ Philosophy
+
+> **Building AI that solves real-world problems—not just impressive demos.**
+> Passionate about transforming cutting-edge AI research into scalable, reliable, and production-ready systems that create measurable business impact.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ErMayureshkumar&color=blue)
 
@@ -58,7 +83,8 @@
 ---
 
 ### 🧩 UI Frameworks  
-![Flet](https://img.shields.io/badge/Flet-00C4B3?style=flat&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 
 ---
@@ -75,6 +101,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=flat&logo=neo4j&logoColor=white)
 
 ---
 
